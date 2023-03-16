@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c2ea84170a6a8d499f054fff5d4d15e, type: 3}
+  m_Name: Sword_01
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 0}
+  itemName: Sword_01
+  modelPrefab: {fileID: 3472525997938595829, guid: 335038e8ce71cd34190e73a05ced0236,
+    type: 3}
+  isUnarmed: 0
+  OH_Light_Attack_01: OH_Light_Attack_01
+  OH_Light_Attack_02: OH_Light_Attack_02
+  OH_Heavy_Attack_01: OH_Heavy_Attack_01
+  OH_Heavy_Attack_02: OH_Heavy_Attack_02
